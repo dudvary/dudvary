@@ -1,4 +1,4 @@
-#### Hi 👋, I'm Daniel, scientist trained in computational neuroscience :brain::computer:, and currently on an adventure around the world :earth_asia:.
+#### Hi 👋, I'm Daniel, scientist trained in computational neuroscience :brain::computer:.
 - 🛠 contributor to [Udvary-et-al-2022](https://github.com/zibneuro/udvary-et-al-2022)
 - 📖 scientific publication: [The Impact of Neuronal Structure on Cortical Network Architecture](https://www.biorxiv.org/content/10.1101/2020.11.13.381087v4)
 - :mortar_board: graduated from University Tuebingen, alumni of Max Planck Society
